@@ -23,4 +23,4 @@ Enterprise style Windows Server 2022 mail infrastructure using two virtual machi
 
 Each virtual machine represents a separate organization with no shared domain or forest.
 
-This project demonstrates real world enterprise concepts such as cross domain mail flow, isolated directory services, and multi-protocol email access. It reflects practical system administration skills used in corporate environments rather than single server lab setups.
+This project demonstrates real world enterprise concepts such as cross domain mail flow, isolated directory services, and multi-protocol email access.
